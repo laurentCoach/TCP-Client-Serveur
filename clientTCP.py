@@ -8,7 +8,7 @@ Created on Thu Oct 26 11:51:45 2017
 
 import socket
 
-TCP_IP = '10.0.133.226'
+TCP_IP = 'IP Address'
 TCP_PORT = 5000
 BUFFER_SIZE = 1024
 MESSAGE = "Hello, World!"
