@@ -3,7 +3,7 @@ Construct a TCP Client-Serveur
 
 Previously, install :
 - NodeJS : https://nodejs.org/en/
-- Python 3.6
+- Python 3.6 : https://www.python.org/downloads/
 
 In this repository, you can find :
   - Server in JavaScript
