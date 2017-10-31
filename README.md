@@ -8,3 +8,12 @@ Previously, install :
 In this repository, you can find :
   - Server in JavaScript
   - Client in Python
+  
+---------------------------------------------------------------------------------------------------
+
+1 - Start Server : node server.js
+
+2 - Start Client : python clientTCP.py
+
+3 - After the client has started, enter your username :
+- #pseudo=yourpseudo
